@@ -10,5 +10,4 @@ after installing the correct fonts.
 
 - Get rid of bullets
 - No colors for frame titles
-- No colors for frame titles
 - IU logo
