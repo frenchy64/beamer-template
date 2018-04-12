@@ -1,6 +1,10 @@
 % $Header$
 
 \documentclass[aspectratio=169]{beamer}
+\usepackage{verbatim}
+\makeatletter
+\newcommand{\verbatimfont}[1]{\def\verbatim@font{#1}}%
+\makeatother
 
 % This file is a solution template for:
 
@@ -47,6 +51,8 @@
 \usepackage[T1]{fontenc}
 % title font
 \setmainfont{Chaparral Pro}
+% verbatim font
+\setmonofont{Anonymous Pro}
 % everything-else font
 \setsansfont{Chaparral Pro}
 

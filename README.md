@@ -3,7 +3,8 @@
 A template for Keynote-style beamer presentations with my favourite
 fonts.
 
-See [talk.pdf](talk.pdf).
+The template is [here](talk.tex) and [this](talk.pdf) is what it looks like
+after installing the correct fonts.
 
 ## TODO
 
